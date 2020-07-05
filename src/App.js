@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <p>Erick Takao K. Yoshike</p>
+      <p>Leonardo Yudi Higuti</p>
     </div>
   );
 }
