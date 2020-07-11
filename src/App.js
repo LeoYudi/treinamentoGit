@@ -1,12 +1,10 @@
 import React from 'react';
+import Routes from './routes';
+import './index.css';
 
 function App() {
   return (
-    <div>
-      <p>Erick Takao K. Yoshike</p>
-      <p>Gabriel Henrique Caetano de Oliveira</p>
-      <p>Leonardo Yudi Higuti</p>
-    </div>
+    <Routes />
   );
 }
 
